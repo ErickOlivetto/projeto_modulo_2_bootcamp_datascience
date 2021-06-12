@@ -1,0 +1,687 @@
+uf,ano,valor,regiao
+Rondônia,1994,150744.0,Norte
+Acre,1994,22658.0,Norte
+Amazonas,1994,127265.0,Norte
+Roraima,1994,38382.0,Norte
+Pará,1994,440625.0,Norte
+Maranhão,1994,395000.0,Nordeste
+Piauí,1994,327096.0,Nordeste
+Ceará,1994,708696.0,Nordeste
+Rio Grande do Norte,1994,192475.0,Nordeste
+Pernambuco,1994,527256.0,Nordeste
+Bahia,1994,994130.0,Nordeste
+Espírito Santo,1994,256603.0,Sudeste
+Santa Catarina,1994,437164.0,Sul
+Mato Grosso,1994,174627.0,Centro-Oeste
+Goiás,1994,209872.0,Centro-Oeste
+Rondônia,1995,169930.0,Norte
+Acre,1995,57518.0,Norte
+Amazonas,1995,236612.0,Norte
+Roraima,1995,56559.0,Norte
+Pará,1995,552664.0,Norte
+Amapá,1995,32559.0,Norte
+Maranhão,1995,482285.0,Nordeste
+Piauí,1995,288726.0,Nordeste
+Ceará,1995,731122.0,Nordeste
+Rio Grande do Norte,1995,257873.0,Nordeste
+Paraíba,1995,160631.0,Nordeste
+Pernambuco,1995,1191428.0,Nordeste
+Alagoas,1995,178302.0,Nordeste
+Sergipe,1995,237617.0,Nordeste
+Bahia,1995,722003.0,Nordeste
+Espírito Santo,1995,397685.0,Sudeste
+Rio de Janeiro,1995,906575.0,Sudeste
+São Paulo,1995,2694310.0,Sudeste
+Paraná,1995,610367.0,Sul
+Santa Catarina,1995,529270.0,Sul
+Rio Grande do Sul,1995,1096689.0,Sul
+Mato Grosso,1995,196972.0,Centro-Oeste
+Goiás,1995,590541.0,Centro-Oeste
+Distrito Federal,1995,1297.0,Centro-Oeste
+Rondônia,1996,260583.0,Norte
+Acre,1996,45907.0,Norte
+Amazonas,1996,279674.0,Norte
+Roraima,1996,58502.0,Norte
+Pará,1996,722825.0,Norte
+Amapá,1996,43911.0,Norte
+Tocantins,1996,162309.0,Norte
+Maranhão,1996,567243.0,Nordeste
+Piauí,1996,284130.0,Nordeste
+Ceará,1996,894330.0,Nordeste
+Rio Grande do Norte,1996,303590.0,Nordeste
+Paraíba,1996,323476.0,Nordeste
+Pernambuco,1996,1130697.0,Nordeste
+Alagoas,1996,299818.0,Nordeste
+Sergipe,1996,242572.0,Nordeste
+Bahia,1996,994587.0,Nordeste
+Espírito Santo,1996,411887.0,Sudeste
+Rio de Janeiro,1996,779704.0,Sudeste
+São Paulo,1996,2685627.0,Sudeste
+Paraná,1996,904583.0,Sul
+Santa Catarina,1996,476830.0,Sul
+Rio Grande do Sul,1996,1011888.0,Sul
+Mato Grosso do Sul,1996,160964.0,Centro-Oeste
+Mato Grosso,1996,201338.0,Centro-Oeste
+Goiás,1996,574266.0,Centro-Oeste
+Distrito Federal,1996,219000.0,Centro-Oeste
+Rondônia,1997,221136.0,Norte
+Acre,1997,78576.0,Norte
+Amazonas,1997,427850.0,Norte
+Roraima,1997,51558.0,Norte
+Pará,1997,890749.0,Norte
+Amapá,1997,54202.0,Norte
+Tocantins,1997,132414.0,Norte
+Maranhão,1997,700146.0,Nordeste
+Piauí,1997,308842.0,Nordeste
+Ceará,1997,1092139.0,Nordeste
+Rio Grande do Norte,1997,308454.0,Nordeste
+Paraíba,1997,399938.0,Nordeste
+Pernambuco,1997,1127214.0,Nordeste
+Alagoas,1997,304852.0,Nordeste
+Sergipe,1997,250807.0,Nordeste
+Bahia,1997,1358301.0,Nordeste
+Minas Gerais,1997,1796982.0,Sudeste
+Espírito Santo,1997,378316.0,Sudeste
+Rio de Janeiro,1997,1409487.0,Sudeste
+São Paulo,1997,4052597.0,Sudeste
+Paraná,1997,1258159.0,Sul
+Santa Catarina,1997,616029.0,Sul
+Rio Grande do Sul,1997,990645.0,Sul
+Mato Grosso do Sul,1997,261788.0,Centro-Oeste
+Mato Grosso,1997,334670.0,Centro-Oeste
+Goiás,1997,591826.0,Centro-Oeste
+Distrito Federal,1997,258032.0,Centro-Oeste
+Rondônia,1998,254228.0,Norte
+Acre,1998,79331.0,Norte
+Amazonas,1998,430178.0,Norte
+Roraima,1998,64159.0,Norte
+Pará,1998,914640.0,Norte
+Amapá,1998,80449.0,Norte
+Tocantins,1998,209755.0,Norte
+Maranhão,1998,802799.0,Nordeste
+Piauí,1998,348572.0,Nordeste
+Ceará,1998,958365.0,Nordeste
+Rio Grande do Norte,1998,299258.0,Nordeste
+Paraíba,1998,390460.0,Nordeste
+Pernambuco,1998,1121468.0,Nordeste
+Alagoas,1998,329757.0,Nordeste
+Sergipe,1998,247439.0,Nordeste
+Bahia,1998,1484387.0,Nordeste
+Minas Gerais,1998,1813559.0,Sudeste
+Espírito Santo,1998,440462.0,Sudeste
+Rio de Janeiro,1998,1519764.0,Sudeste
+São Paulo,1998,4325523.0,Sudeste
+Paraná,1998,1056241.0,Sul
+Santa Catarina,1998,618793.0,Sul
+Rio Grande do Sul,1998,972207.0,Sul
+Mato Grosso do Sul,1998,282453.0,Centro-Oeste
+Mato Grosso,1998,358484.0,Centro-Oeste
+Goiás,1998,634802.0,Centro-Oeste
+Distrito Federal,1998,289995.0,Centro-Oeste
+Rondônia,1999,511993.0,Norte
+Acre,1999,240690.0,Norte
+Amazonas,1999,1013496.0,Norte
+Roraima,1999,139177.0,Norte
+Pará,1999,2585184.0,Norte
+Amapá,1999,205472.0,Norte
+Tocantins,1999,500080.0,Norte
+Maranhão,1999,2231202.0,Nordeste
+Piauí,1999,1045207.0,Nordeste
+Ceará,1999,3180674.0,Nordeste
+Rio Grande do Norte,1999,983207.0,Nordeste
+Paraíba,1999,1294082.0,Nordeste
+Pernambuco,1999,2953463.0,Nordeste
+Alagoas,1999,1086283.0,Nordeste
+Sergipe,1999,812313.0,Nordeste
+Bahia,1999,4745022.0,Nordeste
+Minas Gerais,1999,6477184.0,Sudeste
+Espírito Santo,1999,1141437.0,Sudeste
+Rio de Janeiro,1999,4872715.0,Sudeste
+São Paulo,1999,12673295.0,Sudeste
+Paraná,1999,3018261.0,Sul
+Santa Catarina,1999,1734001.0,Sul
+Rio Grande do Sul,1999,3397620.0,Sul
+Mato Grosso do Sul,1999,827388.0,Centro-Oeste
+Mato Grosso,1999,907069.0,Centro-Oeste
+Goiás,1999,1805937.0,Centro-Oeste
+Distrito Federal,1999,796601.0,Centro-Oeste
+Rondônia,2000,595405.0,Norte
+Acre,2000,245193.0,Norte
+Amazonas,2000,1198384.0,Norte
+Roraima,2000,187080.0,Norte
+Pará,2000,2886309.0,Norte
+Amapá,2000,232258.0,Norte
+Tocantins,2000,557200.0,Norte
+Maranhão,2000,2453795.0,Nordeste
+Piauí,2000,1208893.0,Nordeste
+Ceará,2000,3403095.0,Nordeste
+Rio Grande do Norte,2000,1048720.0,Nordeste
+Paraíba,2000,1381868.0,Nordeste
+Pernambuco,2000,3297620.0,Nordeste
+Alagoas,2000,1196604.0,Nordeste
+Sergipe,2000,796246.0,Nordeste
+Bahia,2000,5131168.0,Nordeste
+Minas Gerais,2000,6961244.0,Sudeste
+Espírito Santo,2000,1214667.0,Sudeste
+Rio de Janeiro,2000,5385808.0,Sudeste
+São Paulo,2000,13842017.0,Sudeste
+Paraná,2000,3750742.0,Sul
+Santa Catarina,2000,1908182.0,Sul
+Rio Grande do Sul,2000,3539671.0,Sul
+Mato Grosso do Sul,2000,896172.0,Centro-Oeste
+Mato Grosso,2000,1091090.0,Centro-Oeste
+Goiás,2000,2040674.0,Centro-Oeste
+Distrito Federal,2000,820415.0,Centro-Oeste
+Rondônia,2001,634672.0,Norte
+Acre,2001,281863.0,Norte
+Amazonas,2001,1327220.0,Norte
+Roraima,2001,162704.0,Norte
+Pará,2001,3182573.0,Norte
+Amapá,2001,342676.0,Norte
+Tocantins,2001,591184.0,Norte
+Maranhão,2001,2754985.0,Nordeste
+Piauí,2001,1260538.0,Nordeste
+Ceará,2001,3464853.0,Nordeste
+Rio Grande do Norte,2001,1074655.0,Nordeste
+Paraíba,2001,1463207.0,Nordeste
+Pernambuco,2001,3308789.0,Nordeste
+Alagoas,2001,1247844.0,Nordeste
+Sergipe,2001,804610.0,Nordeste
+Bahia,2001,5641897.0,Nordeste
+Minas Gerais,2001,7888036.0,Sudeste
+Espírito Santo,2001,1233262.0,Sudeste
+Rio de Janeiro,2001,5263389.0,Sudeste
+São Paulo,2001,13526097.0,Sudeste
+Paraná,2001,3771473.0,Sul
+Santa Catarina,2001,1929301.0,Sul
+Rio Grande do Sul,2001,3605219.0,Sul
+Mato Grosso do Sul,2001,937187.0,Centro-Oeste
+Mato Grosso,2001,1089117.0,Centro-Oeste
+Goiás,2001,2069557.0,Centro-Oeste
+Distrito Federal,2001,798164.0,Centro-Oeste
+Rondônia,2002,603409.0,Norte
+Acre,2002,309201.0,Norte
+Amazonas,2002,1360736.0,Norte
+Roraima,2002,171102.0,Norte
+Pará,2002,3209151.0,Norte
+Amapá,2002,256112.0,Norte
+Tocantins,2002,557207.0,Norte
+Maranhão,2002,2714036.0,Nordeste
+Piauí,2002,1247873.0,Nordeste
+Ceará,2002,3335843.0,Nordeste
+Rio Grande do Norte,2002,1068538.0,Nordeste
+Paraíba,2002,1404985.0,Nordeste
+Pernambuco,2002,3296188.0,Nordeste
+Alagoas,2002,1287595.0,Nordeste
+Sergipe,2002,774545.0,Nordeste
+Bahia,2002,5316305.0,Nordeste
+Minas Gerais,2002,6637190.0,Sudeste
+Espírito Santo,2002,1176631.0,Sudeste
+Rio de Janeiro,2002,5118198.0,Sudeste
+São Paulo,2002,12763696.0,Sudeste
+Paraná,2002,3547068.0,Sul
+Santa Catarina,2002,1808394.0,Sul
+Rio Grande do Sul,2002,3443527.0,Sul
+Mato Grosso do Sul,2002,856199.0,Centro-Oeste
+Mato Grosso,2002,1056545.0,Centro-Oeste
+Goiás,2002,2055137.0,Centro-Oeste
+Distrito Federal,2002,760178.0,Centro-Oeste
+Rondônia,2003,567875.0,Norte
+Acre,2003,300787.0,Norte
+Amazonas,2003,1270370.0,Norte
+Roraima,2003,168107.0,Norte
+Pará,2003,3183958.0,Norte
+Amapá,2003,263949.0,Norte
+Tocantins,2003,529390.0,Norte
+Maranhão,2003,2698158.0,Nordeste
+Piauí,2003,1175552.0,Nordeste
+Ceará,2003,3134287.0,Nordeste
+Rio Grande do Norte,2003,1044353.0,Nordeste
+Paraíba,2003,1320266.0,Nordeste
+Pernambuco,2003,3220240.0,Nordeste
+Alagoas,2003,1217980.0,Nordeste
+Sergipe,2003,744964.0,Nordeste
+Bahia,2003,5128938.0,Nordeste
+Minas Gerais,2003,6206032.0,Sudeste
+Espírito Santo,2003,1155743.0,Sudeste
+Rio de Janeiro,2003,4888554.0,Sudeste
+São Paulo,2003,12355211.0,Sudeste
+Paraná,2003,3317332.0,Sul
+Santa Catarina,2003,1767949.0,Sul
+Rio Grande do Sul,2003,3280867.0,Sul
+Mato Grosso do Sul,2003,814843.0,Centro-Oeste
+Mato Grosso,2003,1014615.0,Centro-Oeste
+Goiás,2003,1978045.0,Centro-Oeste
+Distrito Federal,2003,776852.0,Centro-Oeste
+Rondônia,2004,732052.0,Norte
+Acre,2004,378766.0,Norte
+Amazonas,2004,1581187.0,Norte
+Roraima,2004,220949.0,Norte
+Pará,2004,4313926.0,Norte
+Amapá,2004,342556.0,Norte
+Tocantins,2004,641107.0,Norte
+Maranhão,2004,3305897.0,Nordeste
+Piauí,2004,1494494.0,Nordeste
+Ceará,2004,3773711.0,Nordeste
+Rio Grande do Norte,2004,1312706.0,Nordeste
+Paraíba,2004,1667647.0,Nordeste
+Pernambuco,2004,3926773.0,Nordeste
+Alagoas,2004,1700397.0,Nordeste
+Sergipe,2004,897079.0,Nordeste
+Bahia,2004,7135200.0,Nordeste
+Minas Gerais,2004,7495444.0,Sudeste
+Espírito Santo,2004,1412016.0,Sudeste
+Rio de Janeiro,2004,5935843.0,Sudeste
+São Paulo,2004,14952220.0,Sudeste
+Paraná,2004,4267323.0,Sul
+Santa Catarina,2004,2101818.0,Sul
+Rio Grande do Sul,2004,3875775.0,Sul
+Mato Grosso do Sul,2004,971764.0,Centro-Oeste
+Mato Grosso,2004,1286775.0,Centro-Oeste
+Goiás,2004,2634225.0,Centro-Oeste
+Distrito Federal,2004,985282.0,Centro-Oeste
+Rondônia,2005,698279.0,Norte
+Acre,2005,353552.0,Norte
+Amazonas,2005,1613814.0,Norte
+Roraima,2005,210400.0,Norte
+Pará,2005,3928530.0,Norte
+Amapá,2005,323676.0,Norte
+Tocantins,2005,633116.0,Norte
+Maranhão,2005,3300894.0,Nordeste
+Piauí,2005,1380359.0,Nordeste
+Ceará,2005,3637003.0,Nordeste
+Rio Grande do Norte,2005,1208144.0,Nordeste
+Paraíba,2005,1591982.0,Nordeste
+Pernambuco,2005,3728745.0,Nordeste
+Alagoas,2005,1442279.0,Nordeste
+Sergipe,2005,838923.0,Nordeste
+Bahia,2005,6057144.0,Nordeste
+Minas Gerais,2005,7335918.0,Sudeste
+Espírito Santo,2005,1337730.0,Sudeste
+Rio de Janeiro,2005,5737326.0,Sudeste
+São Paulo,2005,14359891.0,Sudeste
+Paraná,2005,3820725.0,Sul
+Santa Catarina,2005,2049994.0,Sul
+Rio Grande do Sul,2005,3626787.0,Sul
+Mato Grosso do Sul,2005,945137.0,Centro-Oeste
+Mato Grosso,2005,1266069.0,Centro-Oeste
+Goiás,2005,2339329.0,Centro-Oeste
+Distrito Federal,2005,954613.0,Centro-Oeste
+Rondônia,2006,702254.0,Norte
+Acre,2006,349014.0,Norte
+Amazonas,2006,1685221.0,Norte
+Roraima,2006,207007.0,Norte
+Pará,2006,4003528.0,Norte
+Amapá,2006,326160.0,Norte
+Tocantins,2006,648132.0,Norte
+Maranhão,2006,3338694.0,Nordeste
+Piauí,2006,1409417.0,Nordeste
+Ceará,2006,3555125.0,Nordeste
+Rio Grande do Norte,2006,1214854.0,Nordeste
+Paraíba,2006,1585239.0,Nordeste
+Pernambuco,2006,3749519.0,Nordeste
+Alagoas,2006,1399699.0,Nordeste
+Sergipe,2006,867588.0,Nordeste
+Bahia,2006,5968643.0,Nordeste
+Minas Gerais,2006,7275695.0,Sudeste
+Espírito Santo,2006,1350601.0,Sudeste
+Rio de Janeiro,2006,5590987.0,Sudeste
+São Paulo,2006,14512994.0,Sudeste
+Paraná,2006,3912713.0,Sul
+Santa Catarina,2006,2095555.0,Sul
+Rio Grande do Sul,2006,3604845.0,Sul
+Mato Grosso do Sul,2006,974966.0,Centro-Oeste
+Mato Grosso,2006,1239094.0,Centro-Oeste
+Goiás,2006,2366568.0,Centro-Oeste
+Distrito Federal,2006,989724.0,Centro-Oeste
+Rondônia,2007,671022.0,Norte
+Acre,2007,386861.0,Norte
+Amazonas,2007,1704003.0,Norte
+Roraima,2007,218408.0,Norte
+Pará,2007,3997712.0,Norte
+Amapá,2007,326178.0,Norte
+Tocantins,2007,647636.0,Norte
+Maranhão,2007,3478280.0,Nordeste
+Piauí,2007,1409679.0,Nordeste
+Ceará,2007,3578539.0,Nordeste
+Rio Grande do Norte,2007,1211525.0,Nordeste
+Paraíba,2007,1612476.0,Nordeste
+Pernambuco,2007,3819635.0,Nordeste
+Alagoas,2007,1361961.0,Nordeste
+Sergipe,2007,905294.0,Nordeste
+Bahia,2007,5877705.0,Nordeste
+Minas Gerais,2007,7274762.0,Sudeste
+Espírito Santo,2007,1342801.0,Sudeste
+Rio de Janeiro,2007,5644703.0,Sudeste
+São Paulo,2007,14465201.0,Sudeste
+Paraná,2007,3938642.0,Sul
+Santa Catarina,2007,2082713.0,Sul
+Rio Grande do Sul,2007,3507487.0,Sul
+Mato Grosso do Sul,2007,987297.0,Centro-Oeste
+Mato Grosso,2007,1263603.0,Centro-Oeste
+Goiás,2007,2428428.0,Centro-Oeste
+Distrito Federal,2007,1035290.0,Centro-Oeste
+Rondônia,2008,670070.0,Norte
+Acre,2008,379638.0,Norte
+Amazonas,2008,1647149.0,Norte
+Roraima,2008,203350.0,Norte
+Pará,2008,3856972.0,Norte
+Amapá,2008,319122.0,Norte
+Tocantins,2008,625972.0,Norte
+Maranhão,2008,3335303.0,Nordeste
+Piauí,2008,1340657.0,Nordeste
+Ceará,2008,3408148.0,Nordeste
+Rio Grande do Norte,2008,1169816.0,Nordeste
+Paraíba,2008,1554440.0,Nordeste
+Pernambuco,2008,3657438.0,Nordeste
+Alagoas,2008,1306284.0,Nordeste
+Sergipe,2008,879278.0,Nordeste
+Bahia,2008,5676499.0,Nordeste
+Minas Gerais,2008,7066647.0,Sudeste
+Espírito Santo,2008,1312947.0,Sudeste
+Rio de Janeiro,2008,5418391.0,Sudeste
+São Paulo,2008,14273089.0,Sudeste
+Paraná,2008,3806543.0,Sul
+Santa Catarina,2008,2073138.0,Sul
+Rio Grande do Sul,2008,3417420.0,Sul
+Mato Grosso do Sul,2008,974861.0,Centro-Oeste
+Mato Grosso,2008,1225930.0,Centro-Oeste
+Goiás,2008,2322350.0,Centro-Oeste
+Distrito Federal,2008,1000883.0,Centro-Oeste
+Rondônia,2009,681503.0,Norte
+Acre,2009,390602.0,Norte
+Amazonas,2009,1703841.0,Norte
+Roraima,2009,225293.0,Norte
+Pará,2009,3699454.0,Norte
+Amapá,2009,354299.0,Norte
+Tocantins,2009,629942.0,Norte
+Maranhão,2009,3299816.0,Nordeste
+Piauí,2009,1344452.0,Nordeste
+Ceará,2009,3436035.0,Nordeste
+Rio Grande do Norte,2009,1208269.0,Nordeste
+Paraíba,2009,1576092.0,Nordeste
+Pernambuco,2009,3740084.0,Nordeste
+Alagoas,2009,1393230.0,Nordeste
+Sergipe,2009,873594.0,Nordeste
+Bahia,2009,5812462.0,Nordeste
+Minas Gerais,2009,7223274.0,Sudeste
+Espírito Santo,2009,1327848.0,Sudeste
+Rio de Janeiro,2009,5589928.0,Sudeste
+São Paulo,2009,14739743.0,Sudeste
+Paraná,2009,3934622.0,Sul
+Santa Catarina,2009,2135501.0,Sul
+Rio Grande do Sul,2009,3480942.0,Sul
+Mato Grosso do Sul,2009,1023854.0,Centro-Oeste
+Mato Grosso,2009,1232897.0,Centro-Oeste
+Goiás,2009,2351035.0,Centro-Oeste
+Distrito Federal,2009,1002519.0,Centro-Oeste
+Rondônia,2010,647582.0,Norte
+Acre,2010,375827.0,Norte
+Amazonas,2010,1658753.0,Norte
+Roraima,2010,216961.0,Norte
+Pará,2010,3535221.0,Norte
+Amapá,2010,318085.0,Norte
+Tocantins,2010,599042.0,Norte
+Maranhão,2010,3420909.0,Nordeste
+Piauí,2010,1274272.0,Nordeste
+Ceará,2010,3358407.0,Nordeste
+Rio Grande do Norte,2010,1176268.0,Nordeste
+Paraíba,2010,1547527.0,Nordeste
+Pernambuco,2010,3579686.0,Nordeste
+Alagoas,2010,1310661.0,Nordeste
+Sergipe,2010,851030.0,Nordeste
+Bahia,2010,5651502.0,Nordeste
+Minas Gerais,2010,7414886.0,Sudeste
+Espírito Santo,2010,1318686.0,Sudeste
+Rio de Janeiro,2010,5397199.0,Sudeste
+São Paulo,2010,14671666.0,Sudeste
+Paraná,2010,3911435.0,Sul
+Santa Catarina,2010,2158029.0,Sul
+Rio Grande do Sul,2010,3411391.0,Sul
+Mato Grosso do Sul,2010,993508.0,Centro-Oeste
+Mato Grosso,2010,1151191.0,Centro-Oeste
+Goiás,2010,2274623.0,Centro-Oeste
+Distrito Federal,2010,977874.0,Centro-Oeste
+Rondônia,2011,435345.0,Norte
+Acre,2011,257132.0,Norte
+Amazonas,2011,1090240.0,Norte
+Roraima,2011,146403.0,Norte
+Pará,2011,2159285.0,Norte
+Amapá,2011,200416.0,Norte
+Tocantins,2011,393544.0,Norte
+Maranhão,2011,1938353.0,Nordeste
+Piauí,2011,790815.0,Nordeste
+Ceará,2011,1973183.0,Nordeste
+Rio Grande do Norte,2011,715550.0,Nordeste
+Paraíba,2011,894610.0,Nordeste
+Pernambuco,2011,2264640.0,Nordeste
+Alagoas,2011,736926.0,Nordeste
+Sergipe,2011,530191.0,Nordeste
+Bahia,2011,3319588.0,Nordeste
+Minas Gerais,2011,4334695.0,Sudeste
+Espírito Santo,2011,818355.0,Sudeste
+Rio de Janeiro,2011,3271147.0,Sudeste
+São Paulo,2011,9151228.0,Sudeste
+Paraná,2011,2415754.0,Sul
+Santa Catarina,2011,1322747.0,Sul
+Rio Grande do Sul,2011,1972214.0,Sul
+Mato Grosso do Sul,2011,647692.0,Centro-Oeste
+Mato Grosso,2011,762483.0,Centro-Oeste
+Goiás,2011,1515006.0,Centro-Oeste
+Distrito Federal,2011,582929.0,Centro-Oeste
+Rondônia,2012,427785.0,Norte
+Acre,2012,240469.0,Norte
+Amazonas,2012,1149204.0,Norte
+Roraima,2012,134478.0,Norte
+Pará,2012,2120596.0,Norte
+Amapá,2012,201291.0,Norte
+Tocantins,2012,364498.0,Norte
+Maranhão,2012,1834049.0,Nordeste
+Piauí,2012,767241.0,Nordeste
+Ceará,2012,1875068.0,Nordeste
+Rio Grande do Norte,2012,700617.0,Nordeste
+Paraíba,2012,815971.0,Nordeste
+Pernambuco,2012,2122509.0,Nordeste
+Alagoas,2012,747338.0,Nordeste
+Sergipe,2012,503959.0,Nordeste
+Bahia,2012,3222132.0,Nordeste
+Minas Gerais,2012,3998586.0,Sudeste
+Espírito Santo,2012,783980.0,Sudeste
+Rio de Janeiro,2012,3034612.0,Sudeste
+São Paulo,2012,8821199.0,Sudeste
+Paraná,2012,2330836.0,Sul
+Santa Catarina,2012,1277068.0,Sul
+Rio Grande do Sul,2012,1861452.0,Sul
+Mato Grosso do Sul,2012,639969.0,Centro-Oeste
+Mato Grosso,2012,754284.0,Centro-Oeste
+Goiás,2012,1375687.0,Centro-Oeste
+Distrito Federal,2012,615304.0,Centro-Oeste
+Rondônia,2013,487788.0,Norte
+Acre,2013,240916.0,Norte
+Amazonas,2013,1173912.0,Norte
+Roraima,2013,137917.0,Norte
+Pará,2013,2217128.0,Norte
+Amapá,2013,235158.0,Norte
+Tocantins,2013,419059.0,Norte
+Maranhão,2013,2049197.0,Nordeste
+Piauí,2013,830563.0,Nordeste
+Ceará,2013,2162076.0,Nordeste
+Rio Grande do Norte,2013,739553.0,Nordeste
+Paraíba,2013,963126.0,Nordeste
+Pernambuco,2013,2334099.0,Nordeste
+Alagoas,2013,840673.0,Nordeste
+Sergipe,2013,600576.0,Nordeste
+Bahia,2013,3568011.0,Nordeste
+Minas Gerais,2013,4784266.0,Sudeste
+Espírito Santo,2013,882253.0,Sudeste
+Rio de Janeiro,2013,3452853.0,Sudeste
+São Paulo,2013,10297960.0,Sudeste
+Paraná,2013,2728430.0,Sul
+Santa Catarina,2013,1467668.0,Sul
+Rio Grande do Sul,2013,2326594.0,Sul
+Mato Grosso do Sul,2013,792827.0,Centro-Oeste
+Mato Grosso,2013,882673.0,Centro-Oeste
+Goiás,2013,1637161.0,Centro-Oeste
+Distrito Federal,2013,858143.0,Centro-Oeste
+Rondônia,2014,664623.0,Norte
+Acre,2014,254867.0,Norte
+Amazonas,2014,1546920.0,Norte
+Roraima,2014,223255.0,Norte
+Pará,2014,2577588.0,Norte
+Amapá,2014,291264.0,Norte
+Tocantins,2014,520696.0,Norte
+Maranhão,2014,2506954.0,Nordeste
+Piauí,2014,929808.0,Nordeste
+Ceará,2014,3097412.0,Nordeste
+Rio Grande do Norte,2014,976055.0,Nordeste
+Paraíba,2014,1185760.0,Nordeste
+Pernambuco,2014,3098012.0,Nordeste
+Alagoas,2014,1124168.0,Nordeste
+Sergipe,2014,733179.0,Nordeste
+Bahia,2014,4552090.0,Nordeste
+Minas Gerais,2014,5908170.0,Sudeste
+Espírito Santo,2014,1221179.0,Sudeste
+Rio de Janeiro,2014,4792974.0,Sudeste
+São Paulo,2014,13755784.0,Sudeste
+Paraná,2014,3393790.0,Sul
+Santa Catarina,2014,2047870.0,Sul
+Rio Grande do Sul,2014,2980144.0,Sul
+Mato Grosso do Sul,2014,1186794.0,Centro-Oeste
+Mato Grosso,2014,1204418.0,Centro-Oeste
+Goiás,2014,2068419.0,Centro-Oeste
+Distrito Federal,2014,1000131.0,Centro-Oeste
+Rondônia,2015,692060.0,Norte
+Acre,2015,294119.0,Norte
+Amazonas,2015,1721877.0,Norte
+Roraima,2015,261569.0,Norte
+Pará,2015,2121121.0,Norte
+Amapá,2015,317476.0,Norte
+Tocantins,2015,500465.0,Norte
+Maranhão,2015,2470155.0,Nordeste
+Piauí,2015,843986.0,Nordeste
+Ceará,2015,3090798.0,Nordeste
+Rio Grande do Norte,2015,955413.0,Nordeste
+Paraíba,2015,1091866.0,Nordeste
+Pernambuco,2015,3270650.0,Nordeste
+Alagoas,2015,1114133.0,Nordeste
+Sergipe,2015,714208.0,Nordeste
+Bahia,2015,4326712.0,Nordeste
+Minas Gerais,2015,5849587.0,Sudeste
+Espírito Santo,2015,1220295.0,Sudeste
+Rio de Janeiro,2015,4947569.0,Sudeste
+São Paulo,2015,13859265.0,Sudeste
+Paraná,2015,3425656.0,Sul
+Santa Catarina,2015,2066422.0,Sul
+Rio Grande do Sul,2015,2808159.0,Sul
+Mato Grosso do Sul,2015,1097563.0,Centro-Oeste
+Mato Grosso,2015,1218562.0,Centro-Oeste
+Goiás,2015,2012864.0,Centro-Oeste
+Distrito Federal,2015,732494.0,Centro-Oeste
+Rondônia,2016,619782.0,Norte
+Acre,2016,259444.0,Norte
+Amazonas,2016,1404249.0,Norte
+Roraima,2016,223781.0,Norte
+Pará,2016,1986047.0,Norte
+Amapá,2016,309878.0,Norte
+Tocantins,2016,473930.0,Norte
+Maranhão,2016,1768910.0,Nordeste
+Piauí,2016,766717.0,Nordeste
+Ceará,2016,2772563.0,Nordeste
+Rio Grande do Norte,2016,715152.0,Nordeste
+Paraíba,2016,933768.0,Nordeste
+Pernambuco,2016,2643965.0,Nordeste
+Alagoas,2016,871125.0,Nordeste
+Sergipe,2016,550085.0,Nordeste
+Bahia,2016,3231420.0,Nordeste
+Minas Gerais,2016,5192087.0,Sudeste
+Espírito Santo,2016,1018857.0,Sudeste
+Rio de Janeiro,2016,4269415.0,Sudeste
+São Paulo,2016,10615615.0,Sudeste
+Paraná,2016,2978313.0,Sul
+Santa Catarina,2016,1789983.0,Sul
+Rio Grande do Sul,2016,2601252.0,Sul
+Mato Grosso do Sul,2016,937525.0,Centro-Oeste
+Mato Grosso,2016,1117107.0,Centro-Oeste
+Goiás,2016,1808414.0,Centro-Oeste
+Distrito Federal,2016,1331740.0,Centro-Oeste
+Rondônia,2017,580329.0,Norte
+Acre,2017,265563.0,Norte
+Amazonas,2017,1412102.0,Norte
+Roraima,2017,223177.0,Norte
+Pará,2017,2067185.0,Norte
+Amapá,2017,240586.0,Norte
+Tocantins,2017,496697.0,Norte
+Maranhão,2017,1804725.0,Nordeste
+Piauí,2017,794144.0,Nordeste
+Ceará,2017,2527779.0,Nordeste
+Rio Grande do Norte,2017,651844.0,Nordeste
+Paraíba,2017,946139.0,Nordeste
+Pernambuco,2017,2454143.0,Nordeste
+Alagoas,2017,905807.0,Nordeste
+Sergipe,2017,562373.0,Nordeste
+Bahia,2017,3317966.0,Nordeste
+Minas Gerais,2017,5320343.0,Sudeste
+Espírito Santo,2017,980208.0,Sudeste
+Rio de Janeiro,2017,4170602.0,Sudeste
+São Paulo,2017,11187566.0,Sudeste
+Paraná,2017,3121299.0,Sul
+Santa Catarina,2017,1742437.0,Sul
+Rio Grande do Sul,2017,2633986.0,Sul
+Mato Grosso do Sul,2017,888047.0,Centro-Oeste
+Mato Grosso,2017,1074008.0,Centro-Oeste
+Goiás,2017,1852394.0,Centro-Oeste
+Distrito Federal,2017,910783.0,Centro-Oeste
+Rondônia,2018,554429.0,Norte
+Acre,2018,266548.0,Norte
+Amazonas,2018,1435823.0,Norte
+Roraima,2018,237162.0,Norte
+Pará,2018,1994916.0,Norte
+Amapá,2018,241570.0,Norte
+Tocantins,2018,469306.0,Norte
+Maranhão,2018,1808791.0,Nordeste
+Piauí,2018,813143.0,Nordeste
+Ceará,2018,2596746.0,Nordeste
+Rio Grande do Norte,2018,773048.0,Nordeste
+Paraíba,2018,974210.0,Nordeste
+Pernambuco,2018,2410864.0,Nordeste
+Alagoas,2018,926598.0,Nordeste
+Sergipe,2018,574293.0,Nordeste
+Bahia,2018,3165767.0,Nordeste
+Minas Gerais,2018,5380265.0,Sudeste
+Espírito Santo,2018,1042704.0,Sudeste
+Rio de Janeiro,2018,3678944.0,Sudeste
+São Paulo,2018,11407247.0,Sudeste
+Paraná,2018,3143311.0,Sul
+Santa Catarina,2018,1933449.0,Sul
+Rio Grande do Sul,2018,2675382.0,Sul
+Mato Grosso do Sul,2018,900946.0,Centro-Oeste
+Mato Grosso,2018,1053524.0,Centro-Oeste
+Goiás,2018,1764350.0,Centro-Oeste
+Distrito Federal,2018,887622.0,Centro-Oeste
+Rondônia,2019,344707.0,Norte
+Acre,2019,183891.0,Norte
+Amazonas,2019,996366.0,Norte
+Roraima,2019,146819.0,Norte
+Pará,2019,1299432.0,Norte
+Amapá,2019,165800.0,Norte
+Tocantins,2019,337453.0,Norte
+Maranhão,2019,1123803.0,Nordeste
+Piauí,2019,520133.0,Nordeste
+Ceará,2019,1559778.0,Nordeste
+Rio Grande do Norte,2019,427102.0,Nordeste
+Paraíba,2019,608801.0,Nordeste
+Pernambuco,2019,1536040.0,Nordeste
+Alagoas,2019,584861.0,Nordeste
+Sergipe,2019,375131.0,Nordeste
+Bahia,2019,1933369.0,Nordeste
+Minas Gerais,2019,3396051.0,Sudeste
+Espírito Santo,2019,697564.0,Sudeste
+Rio de Janeiro,2019,1506798.0,Sudeste
+São Paulo,2019,7249108.0,Sudeste
+Paraná,2019,2226662.0,Sul
+Santa Catarina,2019,1436410.0,Sul
+Rio Grande do Sul,2019,1829584.0,Sul
+Mato Grosso do Sul,2019,569408.0,Centro-Oeste
+Mato Grosso,2019,657632.0,Centro-Oeste
+Goiás,2019,1139751.0,Centro-Oeste
+Distrito Federal,2019,609503.0,Centro-Oeste
